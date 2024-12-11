@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project with The Odin Project. It uses HTML to make a basic recipe website that has links, images, and lists. It shows my ability to work with the basics of both HTML and GitHub.
