@@ -1,0 +1,16 @@
+/* styles.css */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
